@@ -7,6 +7,6 @@
     "animateplus": "^1.4.0",
     "fg-loadcss": "^1.2.0",
     "fontfaceobserver": "^2.0.13",
-    "prismjs": "^1.5.1"
+    "prismjs": "^1.25.0"
   }
 }
